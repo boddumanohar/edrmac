@@ -19,3 +19,10 @@ Resources? (CPU, Memory, Network usage)
 How the event looks like in ElastiSearch?
 
 
+### Usage
+
+```
+docker-compose up -d
+
+go run main.go
+```
